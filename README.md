@@ -1,6 +1,6 @@
-# Graph Algorithms and Data Structures Library
+# JGraph
 
-Welcome to the Graph Algorithms and Data Structures Library! This library is designed to provide a comprehensive set of graph algorithms and data structures implemented using the adjacency list representation. Whether you're a developer working on network analysis, pathfinding, or any graph-related problem, this library aims to simplify your implementation process.
+Welcome to the JGraph, Graph Algorithms, and Data Structures Library! This library is designed to provide a comprehensive set of graph algorithms and data structures implemented using the adjacency list representation. Whether you're a developer working on network analysis, pathfinding, or any graph-related problem, this library aims to simplify your implementation process.
 
 ## Features
 
